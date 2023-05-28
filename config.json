@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Cookie": "csrftoken=LU6MZRFKyBgQuqM6zq3S6mk7RRJ8LlI0; sessionid=xcb0dfi36le2xr9emfmu3kl5gjxm9kc7; auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjg1MzQ1OTU3LCJpYXQiOjE2ODUyNTk1NTcsImp0aSI6IjMyZTdlYjZkOWIwNTQ4MDNhMjUzYzg2MjY4ZGNiNjEzIiwidXNlcl9pZCI6NTA1fQ.gIbRStO_MIDfLuZ-dSDIVaGsekrySnRIirSmoXQYDWA",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57",
+        "Origin": "https://dance.whu.edu.cn",
+        "Referer": "https://dance.whu.edu.cn/612"
+    }
+   
+    
+}
